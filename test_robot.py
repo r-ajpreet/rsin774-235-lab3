@@ -67,7 +67,7 @@ def test_illegal_move_east(robot):
         robot.move()
 
 
-def test_illegal_move_south(robot)
+def test_illegal_move_south(robot):
     robot.turn()
     robot.turn()
 
